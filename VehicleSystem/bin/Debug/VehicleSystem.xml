@@ -1,0 +1,77 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VehicleSystem
+</name>
+</assembly>
+<members>
+<member name="M:VehicleSystem.ClassDBConnection.getSQLDBConnection(System.String,System.String,System.String,System.String)">
+	<summary>
+ Provides the SQL server connecction 
+ </summary>
+	<returns></returns>
+</member><member name="T:VehicleSystem.ClassDBConnection">
+	<summary>
+ Provides the connections to the databases
+ 
+ </summary>
+	<remarks></remarks>
+</member><member name="T:VehicleSystem.classLogError">
+	<summary>
+ Logging errors in the log folder
+ 
+ </summary>
+	<remarks></remarks>
+</member><member name="T:VehicleSystem.classDAOAccessDB">
+	<summary>
+ This class is to access data from and to Access DB
+ </summary>
+	<remarks>Mihindu Wijesena 09/01/2013 </remarks>
+</member><member name="T:VehicleSystem.classMessages">
+	<summary>
+ Provides the message box functionality 
+ </summary>
+	<remarks>Mihindu Wijesena 
+ 02/09/2012
+ </remarks>
+</member><member name="M:VehicleSystem.classReadWriteTextFile.SaveTextToFile(System.String[0:,0:])">
+	<summary>
+ This function saves the data to a text file. the data should be sent via a two dimentional array
+ </summary>
+	<param name="strData"></param>
+	<returns></returns>
+	<remarks>Mihindu Wijesena 18/09/2012</remarks>
+</member><member name="T:VehicleSystem.classReadWriteTextFile">
+	<summary>
+ This class s used to read and write to a text file
+ </summary>
+	<remarks>Mihindu Wijesena 02/09/2012</remarks>
+</member><member name="M:VehicleSystem.classScreenPosition.ScreenResolution">
+	<summary>
+ Gets the current screen resolution.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:VehicleSystem.classScreenPosition">
+	<summary>
+ Provides the values for screen positioning 
+ 
+ </summary>
+	<remarks>Mihindu Wijesena 02/09/2012</remarks>
+</member><member name="P:VehicleSystem.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:VehicleSystem.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:VehicleSystem.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

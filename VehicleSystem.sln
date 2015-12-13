@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VehicleSystem", "VehicleSystem\VehicleSystem.vbproj", "{D5CDBB98-73EA-4EFF-9E56-339E32397BFE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CoupnSystem", "CoupnSystem\CoupnSystem.vdproj", "{DC44EF70-635D-40E5-AB70-574EC7C6C805}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5CDBB98-73EA-4EFF-9E56-339E32397BFE}.Debug|x86.ActiveCfg = Debug|x86
+		{D5CDBB98-73EA-4EFF-9E56-339E32397BFE}.Debug|x86.Build.0 = Debug|x86
+		{D5CDBB98-73EA-4EFF-9E56-339E32397BFE}.Release|x86.ActiveCfg = Release|x86
+		{D5CDBB98-73EA-4EFF-9E56-339E32397BFE}.Release|x86.Build.0 = Release|x86
+		{DC44EF70-635D-40E5-AB70-574EC7C6C805}.Debug|x86.ActiveCfg = Debug
+		{DC44EF70-635D-40E5-AB70-574EC7C6C805}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
